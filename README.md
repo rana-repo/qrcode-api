@@ -1,4 +1,7 @@
-﻿# qrcode-api
+
+ 
+
+# QRcode-api
 
 ```markdown
 # Flask QR Code Generator
@@ -27,6 +30,7 @@ will respond with a downloadable QR code image in PNG format.
 
    ```plaintext
    http://127.0.0.1:5000/qr?url=your_url_here
+   http://localhost:5000/qr?url=yahoo.com
    ```
 
    Replace `your_url_here` with the URL you want to encode into the QR code.
