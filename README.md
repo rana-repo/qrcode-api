@@ -68,9 +68,6 @@ will respond with a downloadable QR code image in PNG format.
 
 - Ensure that you have the required dependencies installed by running `pip install -r requirements.txt`.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 This README provides a basic overview of the project, instructions for setup, details on how the application works,
